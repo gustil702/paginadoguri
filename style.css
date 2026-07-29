@@ -7,8 +7,8 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #fffb00;
-color: white;
+background-color: #002fff;
+color: rgb(8, 8, 8);
 width: 100%;
 padding: 20px;
 }
@@ -60,7 +60,7 @@ width: 38px;
 padding: 4px 8px;
 }
 .estudante{
-background-image: background-color(#faae43);
+background-image: background-color(#181716);
 padding: 24px 0;
 }
 
@@ -97,7 +97,7 @@ text-decoration:none;
 }
 .eu{
 
-    background-color: #ff5100; 
-color: white;
+    background-color: #0f0e0e; 
+color: rgb(219, 2, 2);
  font-size:200%
 }
